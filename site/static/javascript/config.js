@@ -1,0 +1,1 @@
+var SubDomain = 'baysofttest1'; var SiteID = 'D47EAA29-E701-4B36-BBA6-6D8FDDF88AB3'; var host = 'https://api.eraconnect.net';
